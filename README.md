@@ -1,2 +1,3 @@
 # New-repository
-My first repository in github
+This is my first git repository
+Author - Pratik Rajendra Tekanar
